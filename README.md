@@ -66,7 +66,7 @@ python-multipart
 In another terminal:
 
 ```bash
-cd frontend
+cd task-app
 npm install
 npm run dev
 ```
@@ -96,4 +96,4 @@ npm run dev
 ## 🌐 Author
 
 **[Sridaran Sivakumar]**  
-GitHub: (https://github.com/sridaransivakumar-s)
+GitHub: https://github.com/sridaransivakumar-s
